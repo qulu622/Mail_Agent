@@ -15,4 +15,6 @@ Choose a file as attachment
 Mail content  
 Number of mails  
            
-我的附件檔案只能寄txt檔  
+簡單來說是依照上述要求寫一個能夠自動寄信的小程式  
+但我的附件檔案只能寄txt檔  
+其他附件類型的功能還沒做出來
